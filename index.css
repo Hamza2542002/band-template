@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box !important;
+}
+ul {
+  list-style: none !important;
+}
+input {
+  outline: none !important;
+}
+.modal-header,
+.modal-body button {
+  background-color: #009688 !important;
+}
+
+.overlay {
+  position: relative;
+}
+.overlay span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  transition: 0.3s;
+}
+
+.contact form input {
+  border-radius: 0 !important;
+}
+.dates .card .overlay span:hover {
+  background-color: #8285855f;
+}
+
+.modal-dialog {
+  width: 75% !important;
+}
+
+@media only screen and (min-width: 600px) {
+  .container {
+    width: 800px !important;
+  }
+}

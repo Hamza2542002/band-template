@@ -1,6 +1,6 @@
 # BR Architects
 
-This project is a HTML and CSS Tamplate for an Architects Company.
+This project is a HTML and CSS Tamplate for Band
 
 ## How to view the project
 
@@ -10,4 +10,4 @@ This project is a HTML and CSS Tamplate for an Architects Company.
 
 ## Live Demo of the project
 
-[text](https://hamza2542002.github.io/BR-Architects/)https://hamza2542002.github.io/BR-Architects/
+[text](https://hamza2542002.github.io/band-template/)https://hamza2542002.github.io/band-template/
